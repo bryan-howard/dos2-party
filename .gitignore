@@ -1,0 +1,8 @@
+*~
+*/
+!/Savegames
+/Savegames/*
+!/Savegames/Story/
+/Savegames/Story/*
+!/Savegames/Story/Party
+
